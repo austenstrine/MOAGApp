@@ -1,6 +1,6 @@
 # MOAGApp
 
-##Install notes
+## Install notes
 
 <app directory>$ flutter packages get
 <app directory>$ flutter packages pub run flutter_launcher_icons:main
